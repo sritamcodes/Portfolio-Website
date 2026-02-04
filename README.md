@@ -6,10 +6,6 @@
 
 This is my personal **portfolio website** created to showcase my skills, projects, and contact details.  
 It reflects my learning journey and interest in web development.
-
-## 🚀 Live Demo
-🔗 **Website:** http://sritamcodes-portfolio.com/
-
 ---
 
 ## 🛠️ Tech Stack
