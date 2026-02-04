@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+I'm+Sritam+Kumar+Routray;BCA+Student;Web+Developer;Building+Projects+Daily" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+I'm+Sritam+Kumar+Routray;Building+Projects+Daily;A+Bug+Wrestler;A+Content+Writer" />
 </p>
 # 🌐 Personal Portfolio Website
 
@@ -37,7 +37,3 @@ I enjoy building projects and learning new technologies.
 - **Portfolio:** https://sritamk-345.github.io/Portfolio-Website/
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0ea5e9&height=120&section=footer"/>
-</p>
