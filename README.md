@@ -8,7 +8,7 @@ This is my personal **portfolio website** created to showcase my skills, project
 It reflects my learning journey and interest in web development.
 
 ## 🚀 Live Demo
-🔗 **Website:** https://sritamk-345.github.io/Portfolio-Website/
+🔗 **Website:** http://sritamcodes-portfolio.com/
 
 ---
 
