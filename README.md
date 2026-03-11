@@ -29,7 +29,7 @@ I enjoy building projects and learning new technologies.
 ---
 
 ## 📬 Contact
-- **GitHub:** https://github.com/sritamk-345  
+- **GitHub:** https://github.com/sritamcodes 
 - **Portfolio:**  http://sritamcodes-portfolio-website.com/
 
 ---
